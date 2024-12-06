@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Veterinaria Elena Cirlig Torino</title>
+  <title>Veterinaria Elena Cirlig</title>
   <link rel="stylesheet" href="assets/styles/style.css">
 </head>
 <body>
   <header>
     <div class="logo">
-      <h1>Veterinaria Elena Cirlig Torino</h1>
+      <h1>Veterinaria Elena Cirlig </h1>
     </div>
     <nav>
       <ul>
@@ -25,7 +25,7 @@
   <section class="hero">
     <img src="assets/images/clinic.jpg" alt="Veterinary Clinic">
     <div class="hero-text">
-      <h2>Benvenuti alla Veterinaria Elena Cirlig Torino</h2>
+      <h2>Benvenuti nel mio sito. Sono un veterinario che unisce la medicina convenzionale con approcci olistici per offrire una cura completa ai vostri amici a quattro zampe. </h2>
       <p>Il tuo partner di fiducia per la salute degli animali.</p>
       <a href="services.html" class="cta-button">Esplora i Nostri Servizi</a>
     </div>
