@@ -1,6 +1,6 @@
 # _config.yml
-title: Veterinaria Elena Cirlig Torino
-description: "Veterinaria Elena Cirlig, il tuo partner di fiducia per la salute degli animali."
+title: Veterinaria Elena Cirlig
+description: "Veterinaria Elena Cirlig, la vostra veterinaria di fiducia per la salute degli animali."
 baseurl: "/"
-url: "https://yourusername.github.io"  # Replace with your GitHub Pages URL
+url: "https://anicirlig.github.io"  # Replace with your GitHub Pages URL
 theme: jekyll-theme-cayman  # Optional: A clean theme for your site. Can be changed based on your preference.
