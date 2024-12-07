@@ -7,20 +7,30 @@
   <link rel="stylesheet" href="assets/styles/style.css">
 </head>
 <body>
-  <header>
-    <div class="logo">
-      <h1>Veterinaria Elena Cirlig </h1>
+<header>
+    <div class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="logo"/></a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="index.html">Home</a></li>
+                    <li><a href="about.html">Chi siamo</a></li>
+                    <li><a href="services.html">Servizi</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="pricing.html">Prezzi</a></li>
+                    <li><a href="contact.html">Contatti</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
-    <nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">Informazioni</a></li>
-        <li><a href="services.html">Servizi</a></li>
-        <li><a href="blog.html">Blog</a></li>
-        <li><a href="contact.html">Contatti</a></li>
-      </ul>
-    </nav>
-  </header>
+</header>
 
   <section class="hero">
     <img src="assets/images/clinic.jpg" alt="Veterinary Clinic">
