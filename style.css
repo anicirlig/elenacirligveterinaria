@@ -225,3 +225,40 @@ form button:hover {
     font-size: 20px;
   }
 }
+/* Footer Styles */
+footer {
+  background-color: #6a4c9c;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.footer-container p {
+  font-size: 14px;
+  margin: 0;
+}
+
+.social-link {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: color 0.3s ease;
+}
+
+.social-link i {
+  font-size: 20px;
+}
+
+.social-link:hover {
+  color: #f7b2e1; /* Light purple accent */
+}
