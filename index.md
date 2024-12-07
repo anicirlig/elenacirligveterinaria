@@ -21,10 +21,8 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="index.html">Home</a></li>
-                    <li><a href="about.html">Chi siamo</a></li>
+                    <li><a href="about.html">Informazioni</a></li>
                     <li><a href="services.html">Servizi</a></li>
-                    <li><a href="portfolio.html">Portfolio</a></li>
-                    <li><a href="pricing.html">Prezzi</a></li>
                     <li><a href="contact.html">Contatti</a></li>
                 </ul>
             </div>
