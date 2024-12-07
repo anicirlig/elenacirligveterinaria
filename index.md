@@ -32,7 +32,14 @@
   </section>
 
   <footer>
-    <p>© 2024 Veterinaria Elena Cirlig Torino. Tutti i diritti riservati.</p>
+    <div class="footer-container">
+      <p>© 2024 Veterinaria Elena Cirlig Torino. Tutti i diritti riservati.</p>
+      <a href="https://www.facebook.com/YourProfile" target="_blank" class="social-link">
+        <i class="fab fa-facebook"></i> Seguici su Facebook
+      </a>
+    </div>
   </footer>
+</body>
+</html>
 </body>
 </html>
